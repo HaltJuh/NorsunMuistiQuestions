@@ -1,0 +1,8 @@
+{
+  "questionType": 0,
+  "difficulty": 2,
+  "choices": 4,
+  "timesSeen": 0,
+  "question": "Mitä eläintä kutsutaan usein \"ihimisen parhaaksi ystäväksi\"?",
+  "answer": "Koira",
+  "wrongAnswers":["Kissa","Pupu","Pulu","Siili","Kilpikonna","Myyrä"]}
