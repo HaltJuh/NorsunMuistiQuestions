@@ -1,0 +1,9 @@
+{
+  "questionType": 1,
+  "difficulty": 2,
+  "choices": 4,
+  "timesSeen": 0,
+  "question": "Mikä eläin ääntelee näin?",
+  "answer": "Kissa",
+  "questionSound": { "instanceID": 29076 },
+  "wrongAnswers":["Koira","Tiikeri","Sammakko","Norsu","Siili","Leijona"]}

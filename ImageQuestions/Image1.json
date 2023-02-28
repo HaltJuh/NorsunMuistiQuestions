@@ -1,0 +1,9 @@
+{
+  "questionType": 2,
+  "difficulty": 2,
+  "choices": 4,
+  "timesSeen": 0,
+  "questionImage": { "instanceID": 24604 },
+  "questionText": "Mitä tämä eläin saalistaa?",
+  "answer": { "instanceID": 24606 },
+  "wrongAnswers":[{"instanceID":24608},{"instanceID":24610},{"instanceID":24612},{"instanceID":24614},{"instanceID":24616}]}
